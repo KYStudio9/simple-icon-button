@@ -1,5 +1,4 @@
 # simple-icon-button
-Simple Icon Button
 
 ## Image links
 * button design
